@@ -1,7 +1,7 @@
 Open WCF-Style
 ==============
 
-The WCF ACP-Style packed als normal style. This style is based on the following files from the [WoltLab Community Framework 2.0](https://github.com/WoltLab/WCF/). According to [this](https://github.com/WoltLab/WCF/issues/1350#issuecomment-19266949) statement all files are [LGPL 2.1](https://github.com/WoltLab/WCF/blob/master/LICENSE) lisensed.
+The WCF ACP-Style packed als normal style. This style is based on the following files from the [WoltLab Community Framework 2.0](https://github.com/WoltLab/WCF/). According to [this](https://github.com/WoltLab/WCF/issues/1350#issuecomment-19266949) statement these for files are lisensed under the [LGPL 2.1](https://github.com/WoltLab/WCF/blob/master/LICENSE).
 
 * [individual.less](https://github.com/WoltLab/WCF/blob/master/wcfsetup/install/files/acp/style/blueTemptation/individual.less)
 * [override.less](https://github.com/WoltLab/WCF/blob/master/wcfsetup/install/files/acp/style/blueTemptation/override.less)
